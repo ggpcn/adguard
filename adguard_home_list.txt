@@ -10,3 +10,4 @@
 @@||msg.iqiyi.com^$important
 @@||beacon.qq.com^$important
 @@||log.tbs.qq.com^$important
+@@||tpstelemetry.tencent.com^$important
