@@ -8,6 +8,7 @@
 @@||ipassport.ele.me^$important
 @@||wl.jd.com^$important
 @@||mars.jd.com^$important
+@@||gia.jd.com^$important
 @@||im-x.jd.com^$important
 @@||cfg.imtt.qq.com^$important
 @@||msg.iqiyi.com^$important
