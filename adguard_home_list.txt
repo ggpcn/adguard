@@ -4,6 +4,8 @@
 @@||accscdn.m.taobao.com^$important
 @@||acs.m.taobao.com^$important
 @@||adashx.m.taobao.com^$important
+@@||umdc.aliapp.org^$important
+@@||mo.m.taobao.com^$important
 @@||g.live.com^$important
 @@||ipassport.ele.me^$important
 @@||wl.jd.com^$important
