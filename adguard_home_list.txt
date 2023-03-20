@@ -18,3 +18,4 @@
 @@||log.tbs.qq.com^$important
 @@||tpstelemetry.tencent.com^$important
 @@||dc.services.visualstudio.com^$important
+@@||public.gdtimg.com^$important
