@@ -26,3 +26,4 @@
 @@||etl-xlmc-ssl.xunlei.com^$important
 @@||hub5pn.wap.sandai.net^$important
 @@||ra.gtimg.com^$important
+@@||mcs.snssdk.com^$important
