@@ -20,3 +20,9 @@
 @@||tpstelemetry.tencent.com^$important
 @@||dc.services.visualstudio.com^$important
 @@||public.gdtimg.com^$important
+
+# PCDN放行
+@@||dataflow.biliapi.com^$important
+@@||etl-xlmc-ssl.xunlei.com^$important
+@@||hub5pn.wap.sandai.net^$important
+@@||ra.gtimg.com^$important
