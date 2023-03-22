@@ -20,6 +20,7 @@
 @@||tpstelemetry.tencent.com^$important
 @@||dc.services.visualstudio.com^$important
 @@||public.gdtimg.com^$important
+@@||sdk.open.talk.getui.com^$important
 
 # PCDN放行
 @@||dataflow.biliapi.com^$important
