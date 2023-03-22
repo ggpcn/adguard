@@ -13,6 +13,7 @@
 @@||mars.jd.com^$important
 @@||gia.jd.com^$important
 @@||im-x.jd.com^$important
+@@||ipv4.gdt.qq.com^$important
 @@||blackhole.m.jd.com^$important
 @@||cfg.imtt.qq.com^$important
 @@||msg.iqiyi.com^$important
