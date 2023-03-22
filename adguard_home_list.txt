@@ -22,6 +22,7 @@
 @@||dc.services.visualstudio.com^$important
 @@||public.gdtimg.com^$important
 @@||getui.com^$important
+@@||copilot-telemetry.githubusercontent.com^$important
 
 # PCDN放行
 @@||dataflow.biliapi.com^$important
