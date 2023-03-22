@@ -22,6 +22,7 @@
 @@||v2.gdt.qq.com^$important
 @@||log.tbs.qq.com^$important
 @@||oth.eve.mdt.qq.com^$important
+@@||oth.str.mdt.qq.com^$important
 @@||tpstelemetry.tencent.com^$important
 @@||dc.services.visualstudio.com^$important
 @@||public.gdtimg.com^$important
