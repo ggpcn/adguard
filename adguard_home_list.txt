@@ -16,6 +16,8 @@
 @@||cfg.imtt.qq.com^$important
 @@||msg.iqiyi.com^$important
 @@||beacon.qq.com^$important
+@@||tangram-config.gdt.qq.com^$important
+@@||v2.gdt.qq.com^$important
 @@||log.tbs.qq.com^$important
 @@||oth.eve.mdt.qq.com^$important
 @@||tpstelemetry.tencent.com^$important
