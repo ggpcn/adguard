@@ -24,6 +24,7 @@
 @@||dc.services.visualstudio.com^$important
 @@||public.gdtimg.com^$important
 @@||getui.com^$important
+@@||sngdia.imtmp.net^$important
 @@||copilot-telemetry.githubusercontent.com^$important
 @@||copilot-proxy.githubusercontent.com^$important
 
