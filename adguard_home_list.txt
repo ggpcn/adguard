@@ -9,6 +9,7 @@
 @@||gm.mmstat.com^$important
 @@||g.live.com^$important
 @@||ipassport.ele.me^$important
+@@||h.trace.qq.com^$important
 @@||wl.jd.com^$important
 @@||mars.jd.com^$important
 @@||gia.jd.com^$important
