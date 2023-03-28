@@ -6,6 +6,7 @@
 @@||acs.m.taobao.com^$important
 @@||umdc.aliapp.org^$important
 @@||mo.m.taobao.com^$important
+@@||www.iconfont.cn^$important
 @@||gm.mmstat.com^$important
 @@||g.live.com^$important
 @@||ipassport.ele.me^$important
