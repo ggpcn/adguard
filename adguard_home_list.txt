@@ -9,6 +9,7 @@
 @@||www.iconfont.cn^$important
 @@||gm.mmstat.com^$important
 @@||g.live.com^$important
+@@||tjs.sjs.sinajs.cn^$important
 @@||ipassport.ele.me^$important
 @@||h.trace.qq.com^$important
 @@||wl.jd.com^$important
